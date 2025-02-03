@@ -1,1 +1,1 @@
-console.log("Este es el primer commit de master");
+console.log("Este commit es el primero y pertenece a nuevaRama");
